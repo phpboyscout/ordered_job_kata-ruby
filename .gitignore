@@ -1,0 +1,7 @@
+*.gem
+*.rbc
+/.config
+/spec/reports/
+/bin*
+/.bundle*
+/.idea*
